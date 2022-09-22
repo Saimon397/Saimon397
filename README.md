@@ -1,5 +1,7 @@
 ### Hi there, welcome to my GitHub page 👋
 
+<img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/banner.png">
+
 
 <!--
 **Saimon397/Saimon397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
