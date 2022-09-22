@@ -1,4 +1,4 @@
-### Hi there, welcome to my GitHub page  <i class="fa-solid fa-skull-crossbones fa-fade"></i>
+### Hi there, welcome to my GitHub page <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="241" height="234">
 
 <!--
 **Saimon397/Saimon397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
